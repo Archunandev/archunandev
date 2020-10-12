@@ -5,6 +5,22 @@ i'm arjun from trichy, and i do android app development & web development. I rea
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=archunandev)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Hi there 👋, Archunandev
+#### Android App and Web Developer
+![Android App and Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+i'm arjun from trichy, and i do android app development & web development. I really enjoy learning languages and frameworks like react and android app, as well as work in wordpress.
+
+Skills: JAVA / REACT / JS / HTML / CSS / XML /
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
 
 
 
