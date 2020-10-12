@@ -11,6 +11,8 @@ i'm arjun from trichy, and i do android app development & web development. I rea
 . HTML
 . CSS
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archunandev)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Social Media
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/archunandev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr_arjundev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ArjundevMr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://archunandev.github.io/archunanoffi/#home)  
