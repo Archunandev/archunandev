@@ -13,7 +13,7 @@ i'm arjun from trichy, and i do android app development & web development. I rea
 . HTML
 . CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archunandev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archunandev)](https://github.com/archunandev/github-readme-stats)
 
 ## Social Media
 
