@@ -7,6 +7,7 @@ i'm arjun from trichy, and i do android app development & web development. I rea
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Archunandev)](https://github.com/Archunandev/github-readme-stats)
 
 ## Skills and Experience
+. Kotlin
 . React
 . Java
 . XML
