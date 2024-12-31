@@ -2,7 +2,11 @@
 ![banner](https://user-images.githubusercontent.com/56442417/95732688-b53d6d80-0c9e-11eb-99a2-5992f3b3f471.png)
 
 
-i'm arjun from trichy, and i do android app development & web development. I really enjoy learning languages and frameworks like react and android app, as well as work in wordpress. you can check out my twitter at https://twitter.com/ArjundevMr or https://archunandev.github.io/archunanoffi/#home.
+👋 Hi, I’m Arjun!
+I specialize in Android app development and Zoho Apps Implementation, and I’m passionate about exploring new technologies. I enjoy learning programming languages and frameworks like Python and Android.,
+🌐 Check out my work and connect with me:
+Portfolio: archunandev.github.io
+Twitter: @ArjundevMr
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Archunandev)](https://github.com/Archunandev/github-readme-stats)
 
